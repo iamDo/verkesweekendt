@@ -5,6 +5,28 @@ Datum: Laatste weekend van Augustus:
 - VAN: *Vrijdag 26 Augustus*
 - TOT: *Maandag 29 Augustus*
 
+* Verantwoordelijkheden
+|-----------------+-----------------------------------------------------------------------|
+|                 | Verwantwoordelijkheid                                                 |
+|-----------------+-----------------------------------------------------------------------|
+| Ing. Fucker     | Sleutels ophalen                                                      |
+|                 | Activiteiten zoeken                                                   |
+|-----------------+-----------------------------------------------------------------------|
+| Ing. Dommange   | Logistieke planning                                                   |
+|                 | Activiteiten zoeken                                                   |
+|-----------------+-----------------------------------------------------------------------|
+| Ing. Polmans    | Planning bijhouden en documenteren                                    |
+|                 | Activiteiten zoeken                                                   |
+|-----------------+-----------------------------------------------------------------------|
+| Jelse           | Themacantus voorbereiden                                              |
+|-----------------+-----------------------------------------------------------------------|
+| Robin of Wouter | Eten op vrijdag voorzien                                              |
+|-----------------+-----------------------------------------------------------------------|
+| Jordy           | *Voor* het begin van de cantus zorgen dat iedereen hun bed gemaakt is |
+|                 | Strategie en delegatie vrij te bepalen                                |
+|-----------------+-----------------------------------------------------------------------|
+| Nick            | Vrijdagavond superviseren                                             |
+|-----------------+-----------------------------------------------------------------------|
 * Dagindeling
 
 |------------+------------------------+--------------------------------------+--------------------------+-----------------|
