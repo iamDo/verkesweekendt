@@ -9,14 +9,12 @@ Datum: Laatste weekend van Augustus:
 |-----------------+-----------------------------------------------------------------------|
 |                 | Verwantwoordelijkheid                                                 |
 |-----------------+-----------------------------------------------------------------------|
-| Ing. Fucker     | Sleutels ophalen                                                      |
-|                 | Activiteiten zoeken                                                   |
+| Ing. Fucker     | Sleutels ophalen \n Activiteiten                                      |
 |-----------------+-----------------------------------------------------------------------|
 | Ing. Dommange   | Logistieke planning                                                   |
 |                 | Activiteiten zoeken                                                   |
 |-----------------+-----------------------------------------------------------------------|
 | Ing. Polmans    | Planning bijhouden en documenteren                                    |
-|                 | Activiteiten zoeken                                                   |
 |-----------------+-----------------------------------------------------------------------|
 | Jelse           | Themacantus voorbereiden                                              |
 |-----------------+-----------------------------------------------------------------------|
