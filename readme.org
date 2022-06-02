@@ -1,5 +1,7 @@
 #+title: Verkesweekendt
 
+[[./img/verke.jpg]]
+
 * Algemene info
 Datum: Laatste weekend van Augustus:
 - VAN: *Vrijdag 26 Augustus*
