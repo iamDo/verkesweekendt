@@ -8,6 +8,7 @@ Datum: Laatste weekend van Augustus:
 - TOT: *Maandag 29 Augustus*
 
 * Verantwoordelijkheden
+*Belangrijk*: Deze verantwoordelijkheden liggen nog /niet/ vast
 |-------------------+---------------------------------------------------------------------------------------------------------------|
 |                   | Verwantwoordelijkheid                                                                                         |
 |-------------------+---------------------------------------------------------------------------------------------------------------|
