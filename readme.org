@@ -1,5 +1,10 @@
 #+title: Verkes
 
+* Algemene info
+Datum: Laatste weekend van Augustus:
+- VAN: *Vrijdag 26 Augustus*
+- TOT: *Maandag 29 Augustus*
+
 * Dagindeling
 
 |------------+------------------------+--------------------------------------+--------------------------+-----------------|
