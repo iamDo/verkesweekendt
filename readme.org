@@ -52,3 +52,67 @@ Ze staan gesorteerd op aflopende prijs.
 | [[https://www.natuurhuisje.be/vakantiehuisje/31204][Houffalize]]         |                 780 |         111.42857 |
 | [[https://www.natuurhuisje.be/vakantiehuisje/28915][Bievre]]             |                 641 |         91.571429 |
 #+TBLFM: $3=$2/7
+
+** Barvaux-Sur-Ourthe
+De *voordelen*:
+- Luxueus
+- Mooi hout
+- Grote keuken
+- WifiTV (geen idee of er wifi is)
+- CV maar ook hout/gaskachel
+- Garage met salon, biljart, kicker, darts
+- 10 minuten rijden van Durbuy, dus waarschijnlijk veel activiteiten te vinden
+De *nadelen*:
+- Holy shit de prijs
+- Ligt in het midden van een straat, maar gelukkig lijkt het een niet al te drukke straat
+
+** Dochamps
+De *voordelen*:
+- Rustieke stijl
+- Relatief goed afgeschermd van de buren dmv een haag
+- Dicht bij Ardenne Adventures en Adventure Valley
+- 20 Mins rijden tot grotten van Hotton
+- 30 mins tot aan Durbuy, ez activiteiten
+- Een hot tub
+- Finse Sauna
+De *nadelen*:
+- Holy shit de prijs
+- Ligt niet in een bos
+- Verhuurder zegt: *niet geschikt voor luidruchtige groepen*, dat zijn wij niet echt maar vermeld het toch ff
+- Is voor 8 - 15 personen bedoeld, we zijn met 6-7 mensen, kan te groot zijn en mss doet de verhuurder hier moeilijk over?
+
+** Anloy
+De *voordelen*:
+- Volgens reviews een hele schone locatie
+- Huis lijkt gezellig ingericht
+- WiFi
+- Groot terras met bbq
+- Mooie wandelingen in de buurt
+- Euro Space center en een kasteel in de buurt, ideale chill activiteiten
+De *nadelen*:
+- Nog steeds redelijk prijzig
+- Ik lees niets over een stad dichtbij wat mogelijk ver rijden voor andere activiteiten betekent
+
+** Houffalize
+De *voordelen:*
+- Propere, moderne inrichting
+- Volgens de afbeeldingen een ZEER mooie locatie
+- Ligt aan de oever van de Ourthe
+- Rustig gelegen volgens de beschrijving
+- Centrum van dorp heeft veel cafes en restaurants
+- Durbuy in de buurt lol
+- Lijkt op de kaart idd rustig gelegen maar (zie nadelen)
+De *nadelen:*
+- De kaart/locatie lijkt voor geen hol te kloppen
+- Lijkt mij vanop de kaart alsof alles nogal ver rijden is
+
+** Bievre
+De *voordelen*:
+- De /Originele Stal/
+- We zijn der al geweest en de verhuurders kennen ons dus al
+- Gezellige locatie
+- Heel erg afgelegen en rustig, geen buren om ons zorgen over te maken
+- De McFerme 😏
+De *nadelen*:
+- Misschien willen we iets nieuws?
+- Echt wel afgelegen, moeten lang rijden om ergens te raken
