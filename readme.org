@@ -116,3 +116,9 @@ De *voordelen*:
 De *nadelen*:
 - Misschien willen we iets nieuws?
 - Echt wel afgelegen, moeten lang rijden om ergens te raken
+
+* Boekhoudting
+| Kost               | Bedrag | Betaald door  |
+|--------------------+--------+---------------|
+| Voorschot 1 chalet |    400 | Ing. Dommange |
+| Voorschot 2 chalet |    500 | Nog niemand   |
