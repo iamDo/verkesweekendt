@@ -44,13 +44,13 @@ Datum: Laatste weekend van Augustus:
 
 * Potentiele varkensstallen
 Ze staan gesorteerd op aflopende prijs.
-| Locatie            | Totaalprijs weekend | Prijs per persoon |
-|--------------------+---------------------+-------------------|
-| [[https://www.natuurhuisje.be/vakantiehuisje/63680][Barvaux-Sur-Ourthe]] |                1353 |         193.28571 |
-| [[https://www.natuurhuisje.be/vakantiehuisje/35564][Dochamps]]           |                1256 |         179.42857 |
-| [[https://www.natuurhuisje.be/vakantiehuisje/31967][Anloy]]              |                 900 |         128.57143 |
-| [[https://www.natuurhuisje.be/vakantiehuisje/31204][Houffalize]]         |                 780 |         111.42857 |
-| [[https://www.natuurhuisje.be/vakantiehuisje/28915][Bievre]]             |                 641 |         91.571429 |
+| Locatie              | Totaalprijs weekend | Prijs per persoon |
+|----------------------+---------------------+-------------------|
+| +[[https://www.natuurhuisje.be/vakantiehuisje/63680][Barvaux-Sur-Ourthe]]+ |              +1353+ |       +193.28571+ |
+| +[[https://www.natuurhuisje.be/vakantiehuisje/35564][Dochamps]]+           |              +1256+ |       +179.42857+ |
+| [[https://www.natuurhuisje.be/vakantiehuisje/31967][Anloy]]                |                 900 |         128.57143 |
+| +[[https://www.natuurhuisje.be/vakantiehuisje/31204][Houffalize]]+         |               +780+ |       +111.42857+ |
+| +[[https://www.natuurhuisje.be/vakantiehuisje/28915][Bievre]]+             |               +641+ |       +91.571429+ |
 #+TBLFM: $3=$2/7
 
 ** Barvaux-Sur-Ourthe
