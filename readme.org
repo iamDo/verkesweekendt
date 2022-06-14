@@ -118,7 +118,8 @@ De *nadelen*:
 - Echt wel afgelegen, moeten lang rijden om ergens te raken
 
 * Boekhoudting
-| Kost               | Bedrag | Betaald door  |
-|--------------------+--------+---------------|
-| Voorschot 1 chalet |    400 | Ing. Dommange |
-| Voorschot 2 chalet |    500 | Nog niemand   |
+| Kost               | Bedrag    | Betaald door  |
+|--------------------+-----------+---------------|
+| Voorschot 1 chalet |    350.46 | Ing. Dommange |
+| Voorschot 2 chalet |    630.00 | Nog niemand   |
+| Waarborg chalet    |    400.00 | Nog niemand   |
