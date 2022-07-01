@@ -121,5 +121,5 @@ De *nadelen*:
 | Kost               | Bedrag    | Betaald door  |
 |--------------------+-----------+---------------|
 | Voorschot 1 chalet |    350.46 | Ing. Dommange |
-| Voorschot 2 chalet |    630.00 | Nog niemand   |
+| Voorschot 2 chalet |    630.00 | Ing. Dommange |
 | Waarborg chalet    |    400.00 | Nog niemand   |
