@@ -45,12 +45,15 @@ Datum: Laatste weekend van Augustus:
 * Locaties van activiteiten
 ** [[https://walloniebelgietoerisme.be/nl/content/onvergetelijke-wandeling-langs-de-lesse][Wandeling]]
 *Prijs per ticket*: Gratis :D
+
 *Afstand*: 5 min rijden
 ** [[https://www.capnature.be/nl/parcours-adrenaline][CapNatur]]
 *Prijs per ticket*: 25.00EU
+
 *Afstand*: 21 min rijden
 ** [[https://www.eurospacecenter.be/nl/][ESC]]
 *Prijs per ticket*: 29.00EU
+
 *Afstand*: 10 min rijden
 
 * Potentiele varkensstallen
