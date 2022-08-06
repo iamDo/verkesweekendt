@@ -28,29 +28,40 @@ Datum: Laatste weekend van Augustus:
 |---------------+-------------------------------------------------------------------------------------------------------------|
 
 * Dagindeling
-|------------+------------------------+--------------------------------------+--------------------------+-----------------|
-|            | Vrijdag                | Zaterdag                             | Zondag                   | Maandag         |
-|------------+------------------------+--------------------------------------+--------------------------+-----------------|
-| Voormiddag | x                      | Bekomen van de kater                 | Lichte ad-hoc activiteit | Grote kuis      |
-|------------+------------------------+--------------------------------------+--------------------------+-----------------|
-| Middag     | Sleutel aannemen       | Bekomen van de kater                 | Voorbereidingen BBQ      | Sleutel afgeven |
-|------------+------------------------+--------------------------------------+--------------------------+-----------------|
-| Namiddag   | Voorbereidingen cantus | Intensieve voorafbetaalde activiteit | BBQ                      | x               |
-|------------+------------------------+--------------------------------------+--------------------------+-----------------|
-| Avond      | Cantus                 | Uit eten gaan                        | Opruimen BBQ + Chillen   | x               |
-|------------+------------------------+--------------------------------------+--------------------------+-----------------|
-| Nacht      | Brokken                | (Als het gaat) Op s t a p            | Chilling                 | x               |
-|------------+------------------------+--------------------------------------+--------------------------+-----------------|
+|------------+------------------------+--------------------------------------+------------------------+-----------------|
+|            | Vrijdag                | Zaterdag                             | Zondag                 | Maandag         |
+|------------+------------------------+--------------------------------------+------------------------+-----------------|
+| Voormiddag | x                      | Bekomen van de kater / wandelen      | Euro space center      | Grote kuis      |
+|------------+------------------------+--------------------------------------+------------------------+-----------------|
+| Middag     | Sleutel aannemen       | Bekomen van de kater / wandelen      | Voorbereidingen BBQ    | Sleutel afgeven |
+|------------+------------------------+--------------------------------------+------------------------+-----------------|
+| Namiddag   | Voorbereidingen cantus | Intensieve voorafbetaalde activiteit | BBQ                    | x               |
+|------------+------------------------+--------------------------------------+------------------------+-----------------|
+| Avond      | Cantus                 | Uit eten gaan                        | Opruimen BBQ + Chillen | x               |
+|------------+------------------------+--------------------------------------+------------------------+-----------------|
+| Nacht      | Brokken                | (Als het gaat) Op s t a p            | Chilling               | x               |
+|------------+------------------------+--------------------------------------+------------------------+-----------------|
+
+* Locaties van activiteiten
+** [[https://walloniebelgietoerisme.be/nl/content/onvergetelijke-wandeling-langs-de-lesse][Wandeling]]
+*Prijs per ticket*: Gratis :D
+*Afstand*: 5 min rijden
+** [[https://www.capnature.be/nl/parcours-adrenaline][CapNatur]]
+*Prijs per ticket*: 25.00EU
+*Afstand*: 21 min rijden
+** [[https://www.eurospacecenter.be/nl/][ESC]]
+*Prijs per ticket*: 29.00EU
+*Afstand*: 10 min rijden
 
 * Potentiele varkensstallen
 Ze staan gesorteerd op aflopende prijs.
-| Locatie              | Totaalprijs weekend | Prijs per persoon |
-|----------------------+---------------------+-------------------|
-| +[[https://www.natuurhuisje.be/vakantiehuisje/63680][Barvaux-Sur-Ourthe]]+ |              +1353+ |       +193.28571+ |
-| +[[https://www.natuurhuisje.be/vakantiehuisje/35564][Dochamps]]+           |              +1256+ |       +179.42857+ |
-| [[https://www.natuurhuisje.be/vakantiehuisje/31967][Anloy]]                |                 900 |         128.57143 |
-| +[[https://www.natuurhuisje.be/vakantiehuisje/31204][Houffalize]]+         |               +780+ |       +111.42857+ |
-| +[[https://www.natuurhuisje.be/vakantiehuisje/28915][Bievre]]+             |               +641+ |       +91.571429+ |
+| Locatie            | Totaalprijs weekend | Prijs per persoon |
+|--------------------+---------------------+-------------------|
+| +[[https://www.natuurhuisje.be/vakantiehuisje/63680][Barvaux-Sur-Ourthe]]+ |                +1353+ |         +193.28571+ |
+| +[[https://www.natuurhuisje.be/vakantiehuisje/35564][Dochamps]]+           |                +1256+ |         +179.42857+ |
+| [[https://www.natuurhuisje.be/vakantiehuisje/31967][Anloy]]              |                 900 |         128.57143 |
+| +[[https://www.natuurhuisje.be/vakantiehuisje/31204][Houffalize]]+         |                 +780+ |         +111.42857+ |
+| +[[https://www.natuurhuisje.be/vakantiehuisje/28915][Bievre]]+             |                 +641+ |         +91.571429+ |
 #+TBLFM: $3=$2/7
 
 ** Barvaux-Sur-Ourthe
@@ -118,8 +129,10 @@ De *nadelen*:
 - Echt wel afgelegen, moeten lang rijden om ergens te raken
 
 * Boekhoudting
-| Kost               | Bedrag    | Betaald door  |
-|--------------------+-----------+---------------|
-| Voorschot 1 chalet |    350.46 | Ing. Dommange |
-| Voorschot 2 chalet |    630.00 | Ing. Dommange |
-| Waarborg chalet    |    400.00 | Nog niemand   |
+| Kost               | Bedrag | Betaald door  |
+|--------------------+--------+---------------|
+| Voorschot 1 chalet | 350.46 | Ing. Dommange |
+| Voorschot 2 chalet | 630.00 | Ing. Dommange |
+| Waarborg chalet    | 400.00 | Ing. Fucker*  |
+| ESC                |    203 | Pieter*       |
+| CapNatur           |    175 | Ing. Dommange |
