@@ -56,6 +56,19 @@ Datum: Laatste weekend van Augustus:
 
 *Afstand*: 10 min rijden
 
+* Winkels in de buurt
+** Spar in Libin
+*Afstand*: 7min 5.6km
+
+** Delhaize in Bertrix
+*Afstand*: 13min en 13km
+
+** Carrefour in Libramont
+*Afstand*: 13min en 14km
+
+** Colruyt in Libramont
+*Afstand*: 14min en 14km
+
 * Potentiele varkensstallen
 Ze staan gesorteerd op aflopende prijs.
 | Locatie            | Totaalprijs weekend | Prijs per persoon |
