@@ -179,16 +179,21 @@ De *nadelen*:
 - Echt wel afgelegen, moeten lang rijden om ergens te raken
 
 * Boekhoudting
-| Kost               | Bedrag | Betaald door  |
-|--------------------+--------+---------------|
-| Voorschot 1 chalet | 350.46 | Ing. Dommange |
-| Voorschot 2 chalet | 630.00 | Ing. Dommange |
-| Waarborg chalet    | 400.00 | Ing. Fucker   |
-| ESC                |    203 | Pieter        |
-| CapNatur           |    100 | Pieter        |
-| CapNatur           |     75 | Jordy         |
-| Colruyt Zaterdag   |  97.23 | Pieter        |
-| Colruyt Vrijdag    | 166.72 | Nick          |
-| Colruyt Vrijdag    |      3 | Ing. Fucker   |
+| Kost               |    Bedrag | Betaald door  |
+|--------------------+-----------+---------------|
+| Voorschot 1 chalet |    350.46 | Ing. Dommange |
+| Voorschot 2 chalet |    630.00 | Ing. Dommange |
+| Waarborg chalet    |    400.00 | Ing. Fucker   |
+| ESC                |       203 | Pieter        |
+| CapNatur           |       100 | Pieter        |
+| CapNatur           |        75 | Jordy         |
+| Colruyt Zaterdag   |     97.23 | Pieter        |
+| Colruyt Vrijdag    |    166.72 | Nick          |
+| Colruyt Vrijdag    |         3 | Ing. Fucker   |
+|--------------------+-----------+---------------|
+| Totaal             |   2022.41 |               |
+|--------------------+-----------+---------------|
+| Per persoon        | 288.91571 |               |
+#+TBLFM: @11$2=vsum(@2..@-2)::@12$2=@-1/7
 
 \* Betekendt dadt het nog niedt betdaaldt is
