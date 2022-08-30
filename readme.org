@@ -190,10 +190,11 @@ De *nadelen*:
 | Colruyt Zaterdag   |     97.23 | Pieter        |
 | Colruyt Vrijdag    |    166.72 | Nick          |
 | Colruyt Vrijdag    |         3 | Ing. Fucker   |
+| Diesel Jordy       |     48.88 | Jordy         |
 |--------------------+-----------+---------------|
-| Totaal             |   2022.41 |               |
+| Totaal             |   2025.41 |               |
 |--------------------+-----------+---------------|
-| Per persoon        | 288.91571 |               |
-#+TBLFM: @11$2=vsum(@2..@-2)::@12$2=@-1/7
+| Per persoon        | 289.34429 |               |
+#+TBLFM: @12$2=vsum(@2..@-2)::@13$2=@-1/7
 
 \* Betekendt dadt het nog niedt betdaaldt is
